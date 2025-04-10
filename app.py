@@ -1,4 +1,4 @@
-import boto
+import aws
 import python.py
 
 def lambda_handler(event, context):
