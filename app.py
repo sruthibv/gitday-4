@@ -1,4 +1,4 @@
-import boto
+import aws
 import python.py
 import windows
 
