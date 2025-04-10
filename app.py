@@ -1,5 +1,6 @@
-import math
+import aws
 import python.py
+import windows
 
 def lambda_handler(event, context):
   client = boto3.client('ec2')
